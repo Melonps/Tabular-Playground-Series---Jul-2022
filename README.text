@@ -1,0 +1,6 @@
+Kaggle用のdockerを用いた環境構築のついでとして、Tabular Playground Series - Jul 2022のコンペのコードを乗っけてみました。
+参考：https://www.kaggle.com/competitions/tabular-playground-series-jul-2022/overview
+
+my codeフォルダにあるtps-jul-2022-pca-eda-trying.ipynbは、ノートブックで銅メダルをとった時のものになります。
+参考：https://www.kaggle.com/code/melonpasta/tps-jul-2022-pca-eda-trying
+
